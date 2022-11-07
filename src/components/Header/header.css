@@ -1,0 +1,23 @@
+.testimonios_header{
+    margin: 50px, 0px;
+    padding: 10px, 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.testimonios_header h1{
+    font-size: 2.9rem;
+    font-weight: 500;
+    background-color: rgb(35, 35, 31);
+    color: rgb(255, 249, 249);
+    padding: 10px, 20px;
+}
+.testimonios_header span {
+    font-size: 2.4rem;
+    color: rgb(251, 245, 245);
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

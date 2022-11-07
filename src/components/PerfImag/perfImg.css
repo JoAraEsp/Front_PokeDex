@@ -1,0 +1,8 @@
+.perfil_img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: rgb(160, 160, 208);
+    margin-right: 30px;
+}
